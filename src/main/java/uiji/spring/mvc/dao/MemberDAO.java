@@ -1,4 +1,4 @@
-package siestageek.spring.mvc.dao;
+package uiji.spring.mvc.dao;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
